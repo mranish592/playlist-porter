@@ -1,7 +1,7 @@
 #### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [https://github.com/mranish592/playlist-porter.git](https://github.com/mranish592/playlist-porter.git)
 cd playlist-porter
 ```
 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 #### 4. Setup Google oAuth:
 
-https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html
+[https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html](https://ytmusicapi.readthedocs.io/en/stable/setup/oauth.html)
 
 1. Search for youtube data api and enable it in the cconsole.
 2. Create a consent screen and add the scope for all youtube api.
